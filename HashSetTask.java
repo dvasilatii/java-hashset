@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
-public class MyCode {
+public class HashSetTask {
     public static void main(String[] args) {
         Set<User> set = new HashSet<>();
         set.add(new User("Max", 12));
