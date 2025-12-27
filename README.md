@@ -1,4 +1,4 @@
-# HashSet equals & hashCode Example
+# HashSet equals & hashCode
 
 ## Task
 Add several identical `User` objects to a `HashSet` and make sure only **one** remains in the set.  
